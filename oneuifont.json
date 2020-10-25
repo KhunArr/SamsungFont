@@ -1,7 +1,7 @@
 {
-    "title" : "",
-    "message" : "-တသာ\n-New Font Style",
-    "versionCode" : 1,
+    "title" : "ဒီApp Updateထပ္ မလုပ္ေတာ့ပါ",
+    "message" : "Update လုပ္ၿပီး Uninstall လုပ္",
+    "versionCode" : 2,
     "force" : false,
-    "link" : "https://github.com/KhunArr/PaOMusic/blob/master/PaOhMusic_v1.0.apk?raw=true"
+    "link" : "https://github.com/KhunArr/OneUi_Font/raw/master/rFont_v1.0.0.apk"
 }
